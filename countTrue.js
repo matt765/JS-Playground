@@ -7,7 +7,7 @@
 
 function countTrue(arr) {
   let result = 0;
-  arr.forEach(item => {
+  arr.forEach(item => { //this can be done by standard for loop 
     if (item === true) {
       result++;
     }
