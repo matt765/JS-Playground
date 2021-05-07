@@ -1,3 +1,3 @@
 # Javascript-Challenges
 
-This repository documents my journey through Javascript challenges across the internet
+Some of the coding challenges I solved in the course of learning Javasript
