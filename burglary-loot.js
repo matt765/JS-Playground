@@ -1,5 +1,5 @@
 // Burglary Series: Add its Name
-// Source: Edabit.com
+// Source: https://edabit.com/challenge/9KEKJG5PZTFmG3Zau
 
 // Given three arguments ⁠— an object obj of the stolen items, the pets name and a value ⁠— return an object with that name and value in it (as key-value pairs). 
 // addName({}, "Brutus", 300) ➞ { Brutus: 300 }
