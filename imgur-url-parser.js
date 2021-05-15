@@ -1,5 +1,5 @@
 // Imgur URL Parser
-// Source: Edabit.com
+// Source of instructions: https://edabit.com/challenge/iEDvqagg62roh5q3K
 
 // Create a function that takes an imgur link (as a string) and extracts the unique id and type. 
 // Return an object containing the unique id, and a string indicating what type of link it is.
