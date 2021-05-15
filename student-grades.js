@@ -1,5 +1,5 @@
 // Get Student with Best Test Avg.
-// Source: Edabit.com
+// Source of instructions: https://edabit.com/challenge/nSg24HbusyCQKn9xk
 
 // Given an object with students and the grades that they made on the tests that they took, determine which student has the best Test Average. 
 // The key will be the student's name and the value will be an array of their grades. You will only have to return the student's name.
