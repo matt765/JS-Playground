@@ -1,5 +1,5 @@
 // Guessing game
-// Source: Freecodecamp.org
+// Source of instructions: https://www.freecodecamp.org/news/learn-promise-async-await-in-20-minutes/
 
 // A user can enter a number
 // The script picks a random number from 1 to 6
