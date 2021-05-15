@@ -1,5 +1,5 @@
 // Do All Bigrams Exist?
-// Source: Edabit.com
+// Source of instructions: https://edabit.com/challenge/wQGGp6Qce6phDCvW9
 
 // You are given an input array of bigrams, and an array of words.
 // Write a function that returns true if every single bigram from this array can be found at least once in an array of words.
