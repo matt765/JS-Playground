@@ -1,5 +1,6 @@
 // Hall-Monitor 2
-// Source: Edabit.com
+// Source of instructions: https://edabit.com/challenge/yPa5YwAoqfdJuWK4C
+
 // A floor plan is arranged as follows: 
 // You may freely move between rooms 1 and 2.
 // You may freely move between rooms 3 and 4.
