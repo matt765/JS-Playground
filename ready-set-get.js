@@ -1,5 +1,5 @@
 //Ready, Set... Get!
-//Source: Edabit.com
+//Source of instructions: https://edabit.com/challenge/2FF7RKw9RLwc3EBY9
 
 //You have to build a rudimentary architecture that will simulate a system of XP points distribution among two students that solve a series of given challenges on Edabit.
 //Step 1: Build a class Challenge. The constructor parameters are id and level. The id will be the numerical identifier of the challenge, and level will be a code made of two uppercased letters:
