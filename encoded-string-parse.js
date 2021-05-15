@@ -1,5 +1,5 @@
 // Encoded String Parse
-// Source: Edabit.com
+// Source of instructions: https://edabit.com/challenge/qPK2Cz8LS2rGKYz7h
 
 // Create a function which takes in an encoded string and returns an object according to the following example:
 // parseCode("John000Doe000123") ➞ {firstName: "John", lastName: "Doe", id: "123"}
